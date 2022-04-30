@@ -34,11 +34,9 @@ The motivation for buiding this package is to facilitate the development steps i
 ## Done
 
 Start the program with **"npm run dev"**
-
-<br>
 <br>
 Enjoy
-
+<br>
 Be happy!
 
 #### Links
