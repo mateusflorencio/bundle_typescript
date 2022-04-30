@@ -6,6 +6,10 @@
 
 The motivation for buiding this package is to facilitate the development steps in TypeScript.
 
+### **Description**
+#
+Nodemon was used to observe code changes and Sucrase for better runtime performance
+
 ### required steps to use this bundle
 
 1. Clone this package.
@@ -21,6 +25,9 @@ The motivation for buiding this package is to facilitate the development steps i
 ```
 
 ## Done
+
+Start the program with **npm run dev"
+Enjoy
 
 Be happy!
 
