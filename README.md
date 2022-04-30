@@ -8,17 +8,17 @@ The motivation for buiding this package is to facilitate the development steps i
 
 ### **Tools**
 #
-*EsLint < br/>
-*Prettier < br/>
-*Nodemon was used to observe code changes  < br/>
-*Sucrase is used to better runtime performance < br/>
-*TypeScript < br/>
-*Sucrase < br/>
-*Node < br/>
+* EsLint <br>
+* Prettier <br/>
+* Nodemon was used to observe code changes  <br>
+* Sucrase is used to better runtime performance < br>
+* TypeScript < br>
+* Sucrase <br>
+* Node <br>
 
 ### Required steps to use this bundle
 
-1. Clone this package. 
+1. Clone this package. <br>
  <https://github.com/mateusflorencio/bundle_typescript.git>
 2. Use npm or yarn to instaled packages.
 3. Open your settings.json in VS CODE and paste these code.
