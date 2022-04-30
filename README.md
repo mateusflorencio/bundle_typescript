@@ -1,4 +1,4 @@
-## Bundle start TypeScript
+# Bundle start TypeScript v.1
 
 ### **Motivations**
 
@@ -6,9 +6,15 @@
 
 The motivation for buiding this package is to facilitate the development steps in TypeScript.
 
-### **Description**
+### **Tools**
 #
-Nodemon was used to observe code changes and Sucrase for better runtime performance
+*EsLint
+*Prettier
+*Nodemon was used to observe code changes 
+*Sucrase is used to better runtime performance
+*TypeScript
+*Sucrase
+*Node
 
 ### required steps to use this bundle
 
