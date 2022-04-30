@@ -19,7 +19,7 @@ The motivation for buiding this package is to facilitate the development steps i
 ### Required steps to use this bundle
 
 1. Clone this package. <br>
- <https://github.com/mateusflorencio/bundle_typescript.git>
+<https://github.com/mateusflorencio/bundle_typescript.git>
 2. Use npm or yarn to instaled packages.
 3. Open your settings.json in VS CODE and paste these code.
 
@@ -33,7 +33,7 @@ The motivation for buiding this package is to facilitate the development steps i
 
 ## Done
 
-Start the program with **npm run dev"
+Start the program with **"npm run dev"**
 Enjoy
 
 Be happy!
@@ -45,4 +45,3 @@ Be happy!
 
 **script "build" in package.json it's under construction**
 
-# bundle_typescript
