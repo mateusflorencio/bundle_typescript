@@ -11,8 +11,8 @@ The motivation for buiding this package is to facilitate the development steps i
 * EsLint <br>
 * Prettier <br/>
 * Nodemon was used to observe code changes  <br>
-* Sucrase is used to better runtime performance < br>
-* TypeScript < br>
+* Sucrase is used to better runtime performance <br>
+* TypeScript <br>
 * Sucrase <br>
 * Node <br>
 
@@ -36,8 +36,9 @@ The motivation for buiding this package is to facilitate the development steps i
 Start the program with **"npm run dev"**
 
 <br>
+<br>
 Enjoy
-
+<br>
 <br>
 Be happy!
 
