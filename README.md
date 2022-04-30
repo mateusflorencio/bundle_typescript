@@ -22,8 +22,6 @@ The motivation for buiding this package is to facilitate the development steps i
 
 ## Done
 
-#
-
 Be happy!
 
 #### Links
@@ -32,4 +30,5 @@ Be happy!
   <https://www.youtube.com/watch?v=aTf8QTjw4RE>
 
 **script "build" in package.json it's under construction**
+
 # bundle_typescript
